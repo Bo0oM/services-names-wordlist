@@ -10,6 +10,7 @@ junit
 selenium
 maven
 sbt
+gl
 confluence
 jira
 git
