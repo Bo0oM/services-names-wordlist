@@ -14,6 +14,11 @@ gl
 confluence
 jira
 git
+bamb
+stas
+conf
+monit
+ci
 docker
 aws
 elastic
@@ -76,7 +81,6 @@ graylog
 opentsdb
 registry
 artifactory
-monit
 mesos
 puppet
 mercurial
