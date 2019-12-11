@@ -27,6 +27,8 @@ collectl
 openstack
 sensu
 redis
+vpn
+zabbix
 wiki
 sonar
 sonarcube
