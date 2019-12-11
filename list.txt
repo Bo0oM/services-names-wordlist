@@ -1,4 +1,3 @@
-
 activemq
 admin
 ansible
