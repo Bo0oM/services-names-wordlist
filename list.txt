@@ -1,3 +1,4 @@
+
 activemq
 admin
 ansible
@@ -7,6 +8,7 @@ aws
 backup
 bamb
 bamboo
+build
 capistrano
 cassandra
 checkstyle
@@ -19,6 +21,7 @@ conf
 confluence
 consul
 datadog
+dev
 docker
 docs
 elastic
@@ -26,10 +29,12 @@ elasticsearch
 fabric
 findbugs
 ganglia
+gateway
 git
 github
 gitlab
 gl
+glpi
 gradle
 grafana
 graphite
@@ -41,6 +46,7 @@ influxdb
 jacoco
 jenkins
 jira
+jk
 juju
 junit
 kafka
@@ -59,6 +65,7 @@ mercurial
 mesos
 metric
 metrics
+mirror
 monit
 monitoring
 mysql
@@ -69,12 +76,15 @@ nfs
 openshift
 openstack
 opentsdb
+otrs
+package
 pagerduty
 prometheus
 puppet
 rabbitmq
 raygun
 redis
+redmine
 registry
 repo
 rudder
@@ -101,6 +111,7 @@ svn
 tasks
 team
 teraform
+tools
 tripwire
 upguard
 vagrant
