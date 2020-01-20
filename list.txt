@@ -15,6 +15,7 @@ cassandra
 checkstyle
 chef
 ci
+clickhouse
 cloud
 codeship
 collectd
@@ -57,6 +58,7 @@ juju
 junit
 kafka
 kairosdb
+keycloak
 kibana
 kube
 kuber
@@ -85,6 +87,7 @@ nagios
 netdata
 nextcloud
 nfs
+oauth
 openshift
 openstack
 opentsdb
