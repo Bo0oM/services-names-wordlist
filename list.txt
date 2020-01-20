@@ -17,6 +17,7 @@ chef
 ci
 clickhouse
 cloud
+cluster
 codeship
 collectd
 collectl
@@ -25,6 +26,7 @@ confluence
 consul
 crm
 datadog
+db
 desk
 dev
 docker
@@ -48,8 +50,10 @@ graphite
 graylog
 groovy
 haproxy
+im
 icinga
 influxdb
+jabber
 jacoco
 jenkins
 jira
@@ -144,6 +148,7 @@ violations
 vpn
 vtiger
 wiki
+www
 zabbix
 zimbra
 zipkin
