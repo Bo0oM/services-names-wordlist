@@ -148,7 +148,6 @@ violations
 vpn
 vtiger
 wiki
-www
 zabbix
 zimbra
 zipkin
