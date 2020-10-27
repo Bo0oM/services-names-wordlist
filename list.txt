@@ -58,6 +58,7 @@ dokuwiki
 elastic
 elasticsearch
 email
+eureka
 fabric
 findbugs
 fogbugz
@@ -210,6 +211,7 @@ upguard
 vagrant
 variant
 vault
+verdaccio
 violations
 voip
 vpn
