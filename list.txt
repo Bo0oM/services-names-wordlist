@@ -111,6 +111,7 @@ loggly
 logstash
 lxd
 mail
+mailcatcher
 mantis
 mattermost
 maven
