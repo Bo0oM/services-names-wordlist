@@ -95,6 +95,7 @@ jira
 jk
 juju
 junit
+jupyter
 kafka
 kairosdb
 kallithea
@@ -132,6 +133,7 @@ naginator
 nagios
 netdata
 nextcloud
+nexus
 nfs
 nomad
 oauth
