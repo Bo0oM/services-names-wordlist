@@ -40,7 +40,9 @@ collectl
 conf
 confluence
 consul
+containerd
 continuum
+cri-o
 crm
 cruisecontrol
 cvs
@@ -58,9 +60,12 @@ dokuwiki
 elastic
 elasticsearch
 email
+etcd
 eureka
 fabric
+filebeat
 findbugs
+fluentd
 fogbugz
 foreman
 fossil
@@ -70,6 +75,7 @@ git
 gitea
 github
 gitlab
+gitlab-runner
 gitorious
 gl
 glpi
@@ -99,9 +105,11 @@ jupyter
 kafka
 kairosdb
 kallithea
+keepalived
 keycloak
 kibana
 kube
+kubelet
 kuber
 kubernetes
 ldap
@@ -138,6 +146,7 @@ nfs
 nomad
 oauth
 octopussy
+opendistro
 openproject
 openshift
 openstack
@@ -148,6 +157,7 @@ owncloud
 package
 pagerduty
 pandora
+patroni
 pbx
 phabricator
 portainer
@@ -169,6 +179,7 @@ repo
 roundup
 rt
 rudder
+runc
 saltstack
 satellite
 sbt
@@ -215,6 +226,7 @@ upguard
 vagrant
 variant
 vault
+vector
 verdaccio
 violations
 voip
@@ -226,3 +238,4 @@ youtrack
 zabbix
 zimbra
 zipkin
+zookeeper
