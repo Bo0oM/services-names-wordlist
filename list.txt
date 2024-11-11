@@ -26,6 +26,7 @@ buildbot
 buildmaster
 bzr
 cacti
+calendar
 capistrano
 carbon
 cassandra
@@ -125,7 +126,10 @@ jk
 juju
 junit
 jupyter
+k8s
+k8s-dashboard
 kafka
+kafka-connector
 kairosdb
 kallithea
 keepalived
@@ -171,6 +175,7 @@ munin
 mysql
 naginator
 nagios
+nats
 netdata
 netxms
 nextcloud
