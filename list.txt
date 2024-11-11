@@ -189,6 +189,7 @@ oauth
 observium
 octopussy
 op5
+opencti
 opendistro
 openebs
 openproject
