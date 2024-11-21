@@ -130,8 +130,6 @@ kuberay-operator
 kubernetes-event-exporter
 kubescape
 laravel
-last month
-last week
 logstash
 mariadb
 mariadb-galera
@@ -173,7 +171,6 @@ opensearch
 opensearch-dashboards
 oras
 os-shell
-parent directory
 parse
 parse-dashboard
 percona-mysql
@@ -242,6 +239,5 @@ whereabouts
 wildfly
 wordpress
 wordpress-nginx
-yesterday
 zipkin
 zookeeper
